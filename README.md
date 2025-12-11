@@ -6,6 +6,8 @@
 **Asignatura:** Cultura Digital (UOC)  
 **Fecha:** Diciembre, 2025  
 
+<img width="300" alt="mix_logos" src="https://github.com/user-attachments/assets/3b99e5ca-407c-4527-b69c-df5d7b2e81ad" />
+
 *(Imagen conceptual: La convergencia de herramientas en un solo dispositivo)*
 
 ---
@@ -20,7 +22,10 @@ Si Manovich reescribiera su libro hoy, tendría que mirar el software que llevam
 
 ## 2. Caso 1: Instagram (Stories y Ecosistema)
 
-### La Hibridación de Comunicación, Comercio e Identidad  
+### La Hibridación de Comunicación, Comercio e Identidad
+
+<img width="300" alt="stories" src="https://github.com/user-attachments/assets/c1dd9d89-491a-4954-8d3e-1504ff70d6ff" />
+
 *Referencia visual: Interfaz de Instagram.*
 
 Originalmente una app de filtros fotográficos (remediación de la cámara analógica), Instagram ha evolucionado hacia un híbrido complejo. Como señala el profesor F.M. Gea, el caso de las Stories no es solo "video corto"; es la fusión de la inmediatez efímera (Snapchat), con la persistencia del perfil social, el e-commerce (Instagram Shopping) y la televisión algorítmica (Reels).
@@ -28,7 +33,7 @@ Originalmente una app de filtros fotográficos (remediación de la cámara anal�
 ### Análisis bajo los principios de Manovich
 
 **Hibridación profunda:**  
-Instagram fusiona la "cámara" con el "centro comercial" y el "álbum familiar". No es multimedia (medios yuxtapuestos), es un híbrido donde un sticker en una Story es a la vez un elemento gráfico, un enlace de navegación y un botón de compra.
+Instagram fusiona la "cámara" con la "centro comercial" y el "álbum familiar". No es multimedia (medios yuxtapuestos), es un híbrido donde un sticker en una Story es a la vez un elemento gráfico, un enlace de navegación y un botón de compra.
 
 **Automatización:**  
 Los filtros de realidad aumentada en las Stories no son estáticos; son software que detecta rostros y aplica máscaras 3D en tiempo real. Además, el algoritmo decide qué Stories vemos primero, automatizando nuestra atención.
@@ -43,7 +48,10 @@ Manovich diría que Instagram ha hibridado el "espacio personal" con la "platafo
 
 ## 3. Caso 2: Notion (La navaja suiza de la productividad)
 
-### Fusión de Bases de Datos, Wikis y Procesadores de Texto  
+### Fusión de Bases de Datos, Wikis y Procesadores de Texto
+
+<img width="300" alt="notion" src="https://github.com/user-attachments/assets/d28aefe6-4c79-4045-9ec0-98591a9c38b0" />
+
 *Referencia: El concepto de espacio de trabajo "todo en uno".*
 
 Notion representa el paradigma del "software todo en uno". Históricamente, usábamos Word para escribir, Excel para datos y Trello para tareas. Notion hibrida todas estas herramientas en una sola interfaz fluida mediante el concepto de bloques.
